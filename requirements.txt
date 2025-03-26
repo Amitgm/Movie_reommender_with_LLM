@@ -1,0 +1,5 @@
+chromadb 
+langchain-chroma
+gradio
+langchain_community
+langchain_openai
